@@ -6,7 +6,7 @@
   <artifactId>manjula-testapp4</artifactId>
   <version>SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>manjula-testapp4 Maven Webapp</name>
+  <name>manjula-testapp4 Maven Webapp testing</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
